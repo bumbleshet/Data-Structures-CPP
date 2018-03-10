@@ -1,0 +1,23 @@
+﻿  student.cpp
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\student.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\student.cpp(37): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+  personal.cpp
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(39): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(55): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(58): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\users\user\documents\data structure and algorithms in c++\random access file\random access file\personal.cpp(61): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+  database.cpp
+  Generating Code...
+  Random Access File.vcxproj -> C:\Users\USer\Documents\data structure and algorithms in c++\Random Access File\Debug\Random Access File.exe
